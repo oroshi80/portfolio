@@ -1,0 +1,32 @@
+body { 
+  background-color: #464646;
+  color: #ffffff;
+}
+
+h1 {
+  font-family: Verdana;
+}
+
+p {
+  font-family: Courier New;
+}
+
+.ocode {
+  color: #9b5fe4ae;
+}
+
+.funcode {
+  color: #eaec6e;
+}
+
+.funbracket {
+  color: #14d0ffb1;
+}
+
+.funtext {
+  color: #3cc25f76;
+}
+
+.funsem {
+  color: #fc3e3eaf;
+}
