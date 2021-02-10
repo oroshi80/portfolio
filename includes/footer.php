@@ -1,0 +1,1 @@
+&copy; <?php echo $kelvin->get_company(); ?> 2002 - <?php echo date("Y"); ?> &bull; code &amp; design by <a href="/about.php" title="About <?php echo $kelvin->get_author(); ?>"><?php echo $kelvin->get_author(); ?>
