@@ -1,7 +1,7 @@
 <?php
 include("includes/main_class.php");
 
-$kelvin = new owner("odyssey-studio", "Kelvin Meredith-Smith", "Kelviny@odyssey-studio.co.uk");
+$kelvin = new owner("odyssey-studio", "Kelvin Meredith-Smith", "Kelviny@odyssey-studio.uk");
 
 ?>
 <!doctype html>
