@@ -76,6 +76,10 @@ $kelvin = new owner("odyssey-studio", "Kelvin Meredith-Smith", "Kelviny@odyssey-
       <p>In my own spare time, I have carry out working on wordpress, and giving out the specistlist equipmwnt and information.</p>
       <p>This project is no longer require. </p>
       <br>
+      <h2>More to add SOON!</h2>
+      <h5>comment to be here, N/A</h5>
+      <p>Say something about this line, like blah blah... </p>
+      <br>
     </div>
   </div>
 </div>
