@@ -77,7 +77,7 @@ $kelvin = new owner("odyssey-studio", "Kelvin Meredith-Smith", "Kelviny@odyssey-
       <p>This project is no longer require. </p>
       <br>
       <h2>More to add SOON!</h2>
-      <h5>comment to be here, N/A</h5>
+      <h5>Comment to be here, N/A</h5>
       <p>Say something about this line, like blah blah... </p>
       <br>
     </div>
