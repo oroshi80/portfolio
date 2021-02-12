@@ -48,6 +48,7 @@ $kelvin = new owner("odyssey-studio", "Kelvin Meredith-Smith", "Kelviny@odyssey-
     <div class="col-sm-4">
       <h2><span class="funtext">//About Me</span></h2>
       <p>Hi, my name is <?php echo $kelvin->get_author(); ?><br />
+      Here a brief about me, I always enjoy to learn and develop in programming language. Please click <a href="/about">About</a> to learn more about me.
       </p>
       <h3><span class="funtext">//Portfolio</span></h3>
       <p>Website I have done</p>
